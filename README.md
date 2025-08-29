@@ -27,4 +27,4 @@ This project displays multiple-choice questions, tracks the score, and shows the
 ---
 
 ## 📸 Screenshot
-(Add a screenshot of your quiz UI here. Example: `quiz_screenshot.png`)
+![Quiz-App Screenshot](Quizapp.png)
