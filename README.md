@@ -23,3 +23,8 @@ This project displays multiple-choice questions, tracks the score, and shows the
 - **HTML5** – Structure and content.  
 - **CSS3** – Styling & layout with modern design.  
 - **JavaScript (ES6)** – Quiz logic, score handling, DOM manipulation.  
+
+---
+
+## 📸 Screenshot
+(Add a screenshot of your quiz UI here. Example: `quiz_screenshot.png`)
